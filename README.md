@@ -113,6 +113,7 @@
 <summary>Problems</summary>
 
 - [Divisible Pairs](https://codeforces.com/contest/1931/problem/D)
+- [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D)
 
 </details>
 
