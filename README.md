@@ -104,6 +104,7 @@
 - [Catching the Krug](https://codeforces.com/contest/2152/problem/B)
 - [ Friends and the Restaurant](https://codeforces.com/contest/1729/problem/D)
 - [Stone Age Problem](https://codeforces.com/contest/1679/problem/B)
+- [Jumping Through Segments](https://codeforces.com/contest/1907/problem/D)
 
 </details>
 
