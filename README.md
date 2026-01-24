@@ -95,19 +95,6 @@
 
 </details>
 
-
-## Random
-
-<details>
-<summary>Problems</summary>
-
-- [Catching the Krug](https://codeforces.com/contest/2152/problem/B)
-- [ Friends and the Restaurant](https://codeforces.com/contest/1729/problem/D)
-- [Stone Age Problem](https://codeforces.com/contest/1679/problem/B)
-- [Jumping Through Segments](https://codeforces.com/contest/1907/problem/D)
-
-</details>
-
 ## Super Implementation Technique
 
 <details>
@@ -118,5 +105,19 @@
 - [Romantic Glasses](https://codeforces.com/contest/1915/problem/E)
 
 </details>
+
+## Random
+
+<details>
+<summary>Problems</summary>
+
+- [Catching the Krug](https://codeforces.com/contest/2152/problem/B)
+- [ Friends and the Restaurant](https://codeforces.com/contest/1729/problem/D)
+- [Stone Age Problem](https://codeforces.com/contest/1679/problem/B)
+- [Jumping Through Segments](https://codeforces.com/contest/1907/problem/D)
+- [Production of Snowmen](https://codeforces.com/contest/2182/problem/C)
+
+</details>
+
 
 
